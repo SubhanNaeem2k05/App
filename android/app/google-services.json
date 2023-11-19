@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131562944788",
+    "project_id": "apps-cb6bb",
+    "storage_bucket": "apps-cb6bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131562944788:android:1cbc02fedcef5ccd266a01",
+        "android_client_info": {
+          "package_name": "com.example.Apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZsPwcPmWlLtOTVC0fPvgy9rCcopNU9Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
